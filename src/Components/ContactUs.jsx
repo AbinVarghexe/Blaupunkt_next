@@ -152,7 +152,15 @@ const ContactUs = () => {
             }
             // Server errors (500, 502, 503, etc.)
             else if (err.message.includes('500')) {
-                errorMessage = '⚠️ Server error. The backend may not be properly configured. Please contact support.';
+                // Check if we have specific error details from the server
+                if (err.message.includes('Missing API Key')) {
+                    errorMessage = '⚠️ Configuration Error: Missing API Keys. Please check Hostinger Environment Variables.';
+                } else if (err.message.includes('Server error: 500 -')) {
+                    // Extract the specific message if possible
+                    errorMessage = `⚠️ ${err.message.replace('Server error: 500 - ', '')}`;
+                } else {
+                    errorMessage = '⚠️ Server error. The backend may not be properly configured. Please contact support.';
+                }
             }
             // CORS errors (cross-origin request blocked)
             else if (err.message.includes('CORS')) {
