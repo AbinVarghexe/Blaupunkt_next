@@ -6,13 +6,14 @@ export const metadata = {
     description: "Professional EV charger installation for homes and businesses in the UAE. DEWA-approved technicians and certified charging solutions.",
     keywords: "EV charger installation UAE, EV charger installer UAE, DEWA approved EV installation, home EV charger installation, commercial EV charger installation, Blaupunkt services",
     alternates: {
-        canonical: "https://blaupunkt-ev.com/services",
+        canonical: "https://blaupunkt-ev.com/en/services",
     },
     openGraph: {
         title: "EV Charger Installation Services",
         description: "Certified home and commercial EV charger installation.",
         images: [{ url: Servicepage.ServicesPageImg.src || Servicepage.ServicesPageImg }],
         type: "website",
+        url: "https://blaupunkt-ev.com/en/services",
     },
     twitter: {
         title: "EV Charger Installation Services",

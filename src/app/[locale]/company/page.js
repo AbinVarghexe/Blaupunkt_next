@@ -6,13 +6,14 @@ export const metadata = {
     description: "Learn about Blaupunkt's EV charging solutions in the UAE. Trusted German technology for home, commercial, and fast-charging applications.",
     keywords: "EV charging solutions UAE, Blaupunkt EV charging, DEWA compliant EV chargers, home EV charging UAE, commercial EV charging UAE, fast charging solutions, German EV technology",
     alternates: {
-        canonical: "https://blaupunkt-ev.com/company",
+        canonical: "https://blaupunkt-ev.com/en/company",
     },
     openGraph: {
         title: "About Blaupunkt EV Charging",
         description: "Premium EV charging solutions from Blaupunkt.",
         images: [{ url: companyPageImgs.picture3.src || companyPageImgs.picture3 }],
         type: "website",
+        url: "https://blaupunkt-ev.com/en/company",
     },
     twitter: {
         title: "About Blaupunkt EV Charging",

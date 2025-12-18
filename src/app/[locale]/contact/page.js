@@ -5,12 +5,13 @@ export const metadata = {
     description: "Contact Blaupunkt UAE for EV charger support, inquiries, and installation assistance. Our team is ready to help.",
     keywords: "contact Blaupunkt UAE, EV charger support UAE, EV charger inquiries, EV charger installation assistance, Blaupunkt contact",
     alternates: {
-        canonical: "https://blaupunkt-ev.com/contact",
+        canonical: "https://blaupunkt-ev.com/en/contact",
     },
     openGraph: {
         title: "Contact Blaupunkt UAE",
         description: "Reach out to Blaupunkt for EV charger support.",
         type: "website",
+        url: "https://blaupunkt-ev.com/en/contact",
     },
     twitter: {
         title: "Contact Blaupunkt UAE",

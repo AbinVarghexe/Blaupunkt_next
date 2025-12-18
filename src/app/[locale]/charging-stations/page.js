@@ -6,13 +6,14 @@ export const metadata = {
     description: "Install a reliable home EV charging station in the UAE. Blaupunkt offers AC, Wallbox, and residential charging station solutions.",
     keywords: "home EV charging station UAE, AC EV charger UAE, Wallbox charger UAE, residential EV charging, Blaupunkt AC chargers",
     alternates: {
-        canonical: "https://blaupunkt-ev.com/charging-stations",
+        canonical: "https://blaupunkt-ev.com/en/charging-stations",
     },
     openGraph: {
         title: "Home EV Charging Station UAE",
         description: "Reliable AC and Wallbox-style chargers for homes.",
         images: [{ url: chargingStationProductImages.spec.src || chargingStationProductImages.spec }],
         type: "website",
+        url: "https://blaupunkt-ev.com/en/charging-stations",
     },
     twitter: {
         title: "Home EV Charging Station UAE",

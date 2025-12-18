@@ -8,13 +8,14 @@ export const metadata = {
     description: "Install ultra fast DC charging stations in the UAE. High-power solutions for commercial and rapid EV charging applications.",
     keywords: "DC super fast charger UAE, ultra fast DC charging UAE, high power EV charging station, rapid DC charger UAE",
     alternates: {
-        canonical: "https://blaupunkt-ev.com/dc-super-fast-charging-station",
+        canonical: "https://blaupunkt-ev.com/en/dc-super-fast-charging-station",
     },
     openGraph: {
         title: "DC Super Fast Charger UAE",
         description: "Ultra fast, high-power EV charging stations.",
         images: [{ url: dcSuperFastChargingStationImages.fastSpec.src || dcSuperFastChargingStationImages.fastSpec }],
         type: "website",
+        url: "https://blaupunkt-ev.com/en/dc-super-fast-charging-station",
     },
     twitter: {
         title: "DC Super Fast Charger UAE",
