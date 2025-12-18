@@ -1,6 +1,6 @@
 import { Resend } from 'resend';
 import { NextResponse } from 'next/server';
-import { EnquireTemplate } from '@/components/emails/EnquireTemplate';
+import { EnquireTemplate } from '../../../../src/components/emails/EnquireTemplate';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
