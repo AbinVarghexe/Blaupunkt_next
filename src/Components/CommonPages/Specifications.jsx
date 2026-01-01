@@ -137,7 +137,7 @@ const Specifications = ({ productImage, category }) => {
             <div className='relative rounded-2xl flex items-center justify-center'>
               <img
                 src={imageToDisplay}
-                alt='Product Specifications'
+                alt='Blaupunkt portable EV charger single phase and three phase'
                 className='w-full object-cover rounded-xl hidden'
                 loading='lazy'
                 style={{
@@ -146,7 +146,7 @@ const Specifications = ({ productImage, category }) => {
               />
               <img
                 src={imageToDisplay}
-                alt='Product Specifications'
+                alt='Blaupunkt portable EV charger single phase and three phase'
                 className= 'w-full object-cover rounded-xl  hidden lg:block'
                 loading='lazy'
                 style={{

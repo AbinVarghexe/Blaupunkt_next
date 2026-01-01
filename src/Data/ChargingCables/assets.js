@@ -64,19 +64,19 @@ export const chargingCableProductImages = {
 export const createEVCableThumbnails = () => [
   {
     image: chargingCableImages.cable1,
-    alt: 'EV Charging Cable - Cable 1'
+    alt: 'Blaupunkt EV charging cable Type 2 single phase 8 meter length'
   },
   {
     image: chargingCableImages.cable2,
-    alt: 'EV Charging Cable - Cable 2'
+    alt: 'Blaupunkt EV charging cable Type 2 single phase coiled view'
   },
   {
     image: chargingCableImages.cable3,
-    alt: 'EV Charging Cable - Cable 3'
+    alt: 'Blaupunkt EV charging cable Type 2 single phase full cable view'
   },
   {
     image: chargingCableImages.cable4,
-    alt: 'EV Charging Cable - Cable 4'
+    alt: 'Blaupunkt EV charging cable Type 2 connected to electric vehicle'
   }
 ]
 

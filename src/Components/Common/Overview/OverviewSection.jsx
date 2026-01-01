@@ -69,7 +69,7 @@ const OverviewSection = ({ overviewData }) => {
           {overviewData?.image && (
             <img
               src={overviewData.image}
-              alt='Product Overview'
+              alt='Blaupunkt portable EV charger for home and travel charging'
               className='w-full h-full rounded-lg object-cover'
               loading='lazy'
               style={{

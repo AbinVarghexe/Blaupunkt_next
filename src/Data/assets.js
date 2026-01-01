@@ -26,7 +26,7 @@ const t2T2 = "/assets/Images/companyPage/T2-T2.webp";
 export const Servicepage = {
   ServicesPageImg: {
     src: ServicesPageImg,
-    alt: 'Blaupunkt comprehensive EV charging services and solutions'
+    alt: 'Blaupunkt portable EV charger for home and travel use'
   },
   Mainbg: {
     src: Mainbg,
@@ -45,35 +45,35 @@ export const Servicepage = {
 export const companyPageImgs = {
   picture1: {
     src: picture1,
-    alt: 'Blaupunkt founders - Berlin 1923, visionaries who established the precision engineering heritage'
+    alt: 'Vintage Blaupunkt radio showcasing early audio technology'
   },
   picture2: {
     src: picture2,
-    alt: 'Blaupunkt headquarters - Berlin 1938, expanding manufacturing operations across Europe'
+    alt: 'Blaupunkt logo and brand identity evolution'
   },
   picture3: {
     src: picture3,
-    alt: 'Early automobile radio production line - 1930s innovation in vehicle electronics'
+    alt: 'Blaupunkt logo and brand identity evolution'
   },
   picture6: {
     src: picture6,
-    alt: 'Post-war reconstruction - 1945-1950 rebuilding German manufacturing excellence'
+    alt: 'Blaupunkt innovation journey from radios to electric mobility'
   },
   picture7: {
     src: picture7,
-    alt: 'Color television era - 1967 technological advancement in consumer electronics'
+    alt: 'Blaupunkt global expansion and international brand presence illustration'
   },
   picture12: {
     src: picture12,
-    alt: 'Modern Blaupunkt facility - 2000s transition to digital and automotive technologies'
+    alt: 'Blaupunkt motorsport heritage and automotive innovation'
   },
   picture13: {
     src: picture13,
-    alt: 'Blaupunkt global expansion - 2009 entering new markets and product categories'
+    alt: 'Vintage Blaupunkt television and audio equipment from early innovation era'
   },
   t2T2: {
     src: t2T2,
-    alt: 'Blaupunkt Type 2 to Type 2 EV charging cable - premium electric vehicle charging solution'
+    alt: 'Blaupunkt brand history and innovation legacy since 1923'
   },
   image: {
     src: t2T2,

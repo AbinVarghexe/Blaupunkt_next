@@ -66,23 +66,23 @@ export const portableEvChargingProductImages = {
 export const createPortableEvChargingThumbnails = () => [
   {
     image: portableEvChargingImages.thumb1,
-    alt: 'Portable EV Charging - Thumbnail 1'
+    alt: 'Blaupunkt portable EV charger Type 2 adjustable amperage'
   },
   {
     image: portableEvChargingImages.thumb2,
-    alt: 'Portable EV Charging - Thumbnail 2'
+    alt: 'Blaupunkt portable EV charger in outdoor charging use'
   },
   {
     image: portableEvChargingImages.thumb3,
-    alt: 'Portable EV Charging - Thumbnail 3'
+    alt: 'Blaupunkt portable EV charger adjustable amperage control'
   },
   {
     image: portableEvChargingImages.thumb4,
-    alt: 'Portable EV Charging - Thumbnail 4'
+    alt: 'Blaupunkt portable EV charger with 8 meter cable'
   },
   {
     image: portableEvChargingImages.thumb5,
-    alt: 'Portable EV Charging - Thumbnail 5'
+    alt: 'Blaupunkt portable EV charging device Type 2'
   }
 ]
 

@@ -181,7 +181,7 @@ export const dcSuperFastChargingStationData = {
         models: [
           {
             modelCode: 'BPDC40KW2G',
-            alt: 'Blaupunkt BPDC40KW2G DC Super Fast Charging Station - 40kW, CCS2 Connector, 150V-1000V DC, Floor-Stand',
+            alt: 'Blaupunkt DC fast charger 40kW CCS2 commercial use',
             maximumPower: '40kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -202,7 +202,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC60EU',
-            alt: 'Blaupunkt BPDC60EU DC Super Fast Charging Station - 60kW, CCS2 Connector, 150V-1000V DC, Floor-Stand',
+            alt: 'Blaupunkt DC fast charging station 60kW CCS2 dual gun',
             maximumPower: '60kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -223,7 +223,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC80EU',
-            alt: 'Blaupunkt BPDC80EU DC Super Fast Charging Station - 80kW, CCS2 Connector, 150V-1000V DC, Floor-Stand',
+            alt: 'Blaupunkt DC fast charging station 80kW CCS2 dual gun',
             maximumPower: '80kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -245,7 +245,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC120EU',
-            alt: 'Blaupunkt DC dual fast charging station 120kW CCS2 high power EV charger',
+            alt: 'Blaupunkt DC fast charging station 120kW CCS2 commercial EV charger',
             maximumPower: '120kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -266,7 +266,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC160EU',
-            alt: 'Blaupunkt DC dual fast charging station 160kW CCS2 ultra fast charger',
+            alt: 'Blaupunkt DC ultra fast EV charging station 160kW CCS2',
             maximumPower: '160kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -293,7 +293,7 @@ export const dcSuperFastChargingStationData = {
         models: [
           {
             modelCode: 'BPDC60EUGBT',
-            alt: 'Blaupunkt BPDC60EUGBT DC Super Fast Charging Station - 60kW, CCS2 to GB/T Connector, 150V-1000V DC, Floor-Stand',
+            alt: 'Blaupunkt DC fast charger 60kW CCS2 dual connector',
             maximumPower: '60kW',
             connectorType: 'CCS2 to GB/T',
             outputVoltage: '150V - 1000V DC',
@@ -314,7 +314,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC80EUGBT',
-            alt: 'Blaupunkt BPDC80EUGBT DC Super Fast Charging Station - 80kW, CCS2 to GB/T Connector, 150V-1000V DC, Floor-Stand',
+            alt: 'Blaupunkt DC fast charger 80kW CCS2 commercial installation',
             maximumPower: '80kW',
             connectorType: 'CCS2 to GB/T',
             outputVoltage: '150V - 1000V DC',
@@ -335,7 +335,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'BPDC160EUGBT',
-            alt: 'Blaupunkt DC dual fast charging station 160kW CCS2 commercial charger',
+            alt: 'Blaupunkt DC ultra fast charging station 160kW CCS2 high power',
             maximumPower: '160kW',
             connectorType: 'CCS2 to GB/T',
             outputVoltage: '150V - 1000V DC',
@@ -362,7 +362,7 @@ export const dcSuperFastChargingStationData = {
         models: [
           {
             modelCode: 'RCD2060A-2-B',
-            alt: 'Blaupunkt RCD2060A-2-B DC Super Fast Charging Station - 60kW, Dual Outlet, CCS2 Connector, 2 Ports, Wall-Stand',
+            alt: 'Blaupunkt DC dual fast charging station 60kW CCS2 commercial charger',
             maximumPower: '60kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -383,7 +383,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'RCD2080A-2-B',
-            alt: 'Blaupunkt RCD2080A-2-B DC Super Fast Charging Station - 80kW, Dual Outlet, CCS2 Connector, 2 Ports, Wall-Stand',
+            alt: 'Blaupunkt DC dual fast charging station 80kW CCS2 dual connector',
             maximumPower: '80kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -405,7 +405,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'RCD2120A-2-L',
-            alt: 'Blaupunkt RCD2120A-2-L DC Super Fast Charging Station - 120kW, Dual Outlet, CCS2 Connector, 2 Ports, Floor-Stand',
+            alt: 'Blaupunkt DC dual fast charging station 120kW CCS2 high power EV charger',
             maximumPower: '120kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',
@@ -426,7 +426,7 @@ export const dcSuperFastChargingStationData = {
           },
           {
             modelCode: 'RCD-DC-160KW-2-ESF',
-            alt: 'Blaupunkt RCD-DC-160KW-2-ESF DC Super Fast Charging Station - 160kW, Dual Outlet, CCS2 Connector, 2 Ports, Floor-Stand',
+            alt: 'Blaupunkt DC dual fast charging station 160kW CCS2 ultra fast charger',
             maximumPower: '160kW',
             connectorType: 'CCS2',
             outputVoltage: '150V - 1000V DC',

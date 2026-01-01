@@ -73,11 +73,11 @@ export const dcSuperFastChargingStationProductImages = {
 export const createDCSuperFastChargingStationThumbnails = () => [
   {
     image: dcSuperFastChargingStationImages.thumb1,
-    alt: 'DC Super Fast Charging Station - View 1'
+    alt: 'Blaupunkt DC fast charging station front view'
   },
   {
     image: dcSuperFastChargingStationImages.thumb2,
-    alt: 'DC Super Fast Charging Station - View 2'
+    alt: 'Blaupunkt DC dual fast charging station with CCS2 connectors'
   }
 ]
 

@@ -202,7 +202,7 @@ export const chargingCablesData = {
         ipClass: '65',
         popular: false,
         image: chargingCableImages.cablePd2,
-        alt: 'Blaupunkt A1P16AT1 EV Charging Cable - Type 1 to Type 2, 16A, Single Phase, 5 Meters'
+        alt: 'Blaupunkt EV charging cable Type 1 to Type 2 single phase 16A 5 meters'
       },
       {
         modelCode: 'A1P32AT1',
@@ -230,12 +230,12 @@ export const chargingCablesData = {
         modelCode: 'B1P16AT2',
         connectorType: 'Type 1 to Type 2',
         current: '16A',
-        cableLength: '2 Meters',
+        cableLength: '5 Meters',
         phaseType: 'Single - Phase',
         ipClass: '65',
         popular: false,
         image: chargingCableImages.cablePd1,
-        alt: 'Blaupunkt EV charging cable Type 1 to Type 2 single phase 16A 5 meters'
+        alt: 'Blaupunkt EV charging cable Type 1 to Type 2 single phase 16A 5 meter cable'
       }
     ]
   },
