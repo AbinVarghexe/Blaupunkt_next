@@ -53,23 +53,23 @@ export const companyPageImgs = {
   },
   picture3: {
     src: picture3,
-    alt: 'Blaupunkt innovation journey from radios to electric mobility'
+    alt: 'Blaupunkt logo and brand identity evolution'
   },
   picture6: {
     src: picture6,
-    alt: 'Post-war reconstruction - 1945-1950 rebuilding German manufacturing excellence'
+    alt: 'Blaupunkt innovation journey from radios to electric mobility'
   },
   picture7: {
     src: picture7,
-    alt: 'Color television era - 1967 technological advancement in consumer electronics'
+    alt: 'Blaupunkt global expansion and international brand presence illustration'
   },
   picture12: {
     src: picture12,
-    alt: 'Modern Blaupunkt facility - 2000s transition to digital and automotive technologies'
+    alt: 'Blaupunkt motorsport heritage and automotive innovation'
   },
   picture13: {
     src: picture13,
-    alt: 'Blaupunkt global expansion - 2009 entering new markets and product categories'
+    alt: 'Vintage Blaupunkt television and audio equipment from early innovation era'
   },
   t2T2: {
     src: t2T2,
