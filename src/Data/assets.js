@@ -26,7 +26,7 @@ const t2T2 = "/assets/Images/companyPage/T2-T2.webp";
 export const Servicepage = {
   ServicesPageImg: {
     src: ServicesPageImg,
-    alt: 'Blaupunkt comprehensive EV charging services and solutions'
+    alt: 'Blaupunkt portable EV charger for home and travel use'
   },
   Mainbg: {
     src: Mainbg,
@@ -45,15 +45,15 @@ export const Servicepage = {
 export const companyPageImgs = {
   picture1: {
     src: picture1,
-    alt: 'Blaupunkt founders - Berlin 1923, visionaries who established the precision engineering heritage'
+    alt: 'Vintage Blaupunkt radio showcasing early audio technology'
   },
   picture2: {
     src: picture2,
-    alt: 'Blaupunkt headquarters - Berlin 1938, expanding manufacturing operations across Europe'
+    alt: 'Blaupunkt logo and brand identity evolution'
   },
   picture3: {
     src: picture3,
-    alt: 'Early automobile radio production line - 1930s innovation in vehicle electronics'
+    alt: 'Blaupunkt innovation journey from radios to electric mobility'
   },
   picture6: {
     src: picture6,
@@ -73,7 +73,7 @@ export const companyPageImgs = {
   },
   t2T2: {
     src: t2T2,
-    alt: 'Blaupunkt Type 2 to Type 2 EV charging cable - premium electric vehicle charging solution'
+    alt: 'Blaupunkt brand history and innovation legacy since 1923'
   },
   image: {
     src: t2T2,

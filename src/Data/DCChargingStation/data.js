@@ -180,7 +180,7 @@ export const dcChargingStationData = {
         connectorPin: 'CCS2',
         popular: false,
         image: dcChargingStationImages.dcPd2,
-        alt: 'Blaupunkt BPDC40KEU DC Fast Charging Station - 40kW, CCS2 Connector, 5-100A'
+        alt: 'Blaupunkt DC charging station 40kW CCS2 fast charger'
       }
     ]
   },

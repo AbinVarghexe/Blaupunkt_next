@@ -70,27 +70,27 @@ export const chargingStationProductImages = {
 export const createChargingStationThumbnails = () => [
   {
     image: chargingStationImages.thumb1,
-    alt: 'Charging Station - View 1'
+    alt: 'Blaupunkt AC charging station Type 2 wall mounted EV charger'
   },
   {
     image: chargingStationImages.thumb2,
-    alt: 'Charging Station - View 2'
+    alt: 'Blaupunkt AC EV charging station front view Type 2'
   },
   {
     image: chargingStationImages.thumb3,
-    alt: 'Charging Station - View 3'
+    alt: 'Blaupunkt AC charging station wall mounted side view'
   },
   {
     image: chargingStationImages.thumb4,
-    alt: 'Charging Station - View 4'
+    alt: 'Blaupunkt portable EV charger single phase and three phase'
   },
   {
     image: chargingStationImages.thumb5,
-    alt: 'Charging Station - View 5'
+    alt: '"Blaupunkt AC charging station RFID and LED indicator panel'
   },
   {
     image: chargingStationImages.thumb6,
-    alt: 'Charging Station - View 6'
+    alt: 'Blaupunkt portable EV charging device Type 2'
   }
 ]
 

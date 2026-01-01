@@ -60,11 +60,11 @@ export const dcChargingStationProductImages = {
 export const createDCChargingStationThumbnails = () => [
   {
     image: dcChargingStationImages.thumb1,
-    alt: 'DC Charging Station - View 1'
+    alt: 'Blaupunkt DC charging station 40kW CCS2 wall mounted front view'
   },
   {
     image: dcChargingStationImages.thumb2,
-    alt: 'DC Charging Station - View 2'
+    alt: 'Blaupunkt DC charging station 30 to 40kW CCS2 wall mounted EV charger'
   }
 ]
 
